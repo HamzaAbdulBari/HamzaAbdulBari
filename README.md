@@ -1,82 +1,59 @@
-# Hi, I'm Hamza 👋
+<h3 align="left">Languages and Tools:</h3>
 
-### AI/ML Engineer | NLP | AI Applications
+<p align="left">
 
-I build practical AI systems with a focus on **Natural Language Processing, Transformer models, and backend engineering**.
+<!-- Languages -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-My work spans from training and evaluating ML models to building modular AI applications and backend services.
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
 
----
+<!-- Machine Learning / AI -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+</a>
 
-## 🚀 Featured Projects
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
 
-### 📚 Development Assist — Documentation RAG Application
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+</a>
 
-**Python · RAG · Embeddings · PostgreSQL · Alembic**
+<!-- Data -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
 
-A Retrieval-Augmented Generation application for answering natural-language questions over developer documentation.
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
 
-* Built a modular RAG pipeline covering **document ingestion, chunking, embeddings, retrieval, and context-based answer generation**.
-* Designed ingestion, embedding, and retrieval components as independent services.
-* Implemented persistent storage using **PostgreSQL** with **Alembic-managed migrations**.
-* Built the system with a focus on modularity, maintainability, and reliable document retrieval.
+<!-- Backend -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+</a>
 
----
+<!-- Databases -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
 
-### 🤖 NewsClassifier — Fake News Detection
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
 
-**Python · DeBERTa-v3 · PyTorch · Hugging Face Transformers · TextAttack**
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
 
-A Transformer-based NLP system for detecting fake news using the LIAR dataset.
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 
-* Fine-tuned **DeBERTa-v3** using PyTorch and Hugging Face Transformers for binary news classification.
-* Built the training and evaluation pipeline for model experimentation and performance analysis.
-* Generated adversarial examples using **TextAttack** to stress-test model robustness.
-* Evaluated the impact of adversarial examples on **accuracy and F1-score**.
-
----
-
-### ⚙️ Blog API — Backend Service
-
-**Python · FastAPI · Pydantic · REST API · PostgreSQL**
-
-A backend API for managing blog content through structured REST endpoints.
-
-* Built RESTful API endpoints for **creating, reading, updating, and deleting blog posts**.
-* Used **FastAPI** and **Pydantic** for request validation and structured API responses.
-* Implemented database-backed persistence for blog content.
-* Organized the application into separate layers for routing, validation, and data access.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-`Python` `C++`
-
-### Machine Learning & AI
-
-`PyTorch` `Scikit-learn` `Hugging Face Transformers` `DeBERTa` `NLP` `RAG` `Embeddings`
-
-### Backend & Databases
-
-`FastAPI` `Pydantic` `PostgreSQL` `Alembic` `REST APIs`
-
-### Tools
-
-`Git` `GitHub` `Docker` `Linux`
-
----
-
-## 📌 Areas of Interest
-
-* Natural Language Processing
-* Transformer Models
-* Retrieval-Augmented Generation
-* Machine Learning Engineering
-* AI Applications
-* Backend Engineering
-* Model Evaluation & Robustness
-
-
+</p>
