@@ -1,6 +1,31 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>AI/ML, NLP, and LLM-based projects<br><br>🤝 I’m looking for help with<br>Machine Learning Engineering, System Design, and building production-ready AI systems<br><br>🌱 I’m currently learning<br>LLM Systems, RAG, Backend Architecture, C++, and Cybersecurity<br><br>💬 Ask me about<br>NLP, Transformers, DeBERTa, RAG, Machine Learning, and FastAPI<br><br>⚡ Fun fact<br>I enjoy turning ML concepts into working systems and breaking them down to understand how they actually work.
+🎓 B.Tech in Computer Science and Engineering @ Integral University, Lucknow (Expected May 2026)<br><br>
+👯 I'm looking to collaborate on<br>AI/ML, NLP, and LLM-based projects<br><br>
+🤝 I'm looking for help with<br>Machine Learning Engineering, System Design, and building production-ready AI systems<br><br>
+🌱 I'm currently learning<br>LLM Systems, RAG, Backend Architecture, C++, and Cybersecurity<br><br>
+💬 Ask me about<br>NLP, Transformers, DeBERTa, RAG, Machine Learning, and FastAPI<br><br>
+🔬 I've authored a research paper on DeBERTa-based fake news detection and served as an external reviewer for ICMLA 2026<br><br>
+⚡ Fun fact<br>I enjoy turning ML concepts into working systems and breaking them down to understand how they actually work.
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzabari832@gmail.com)
+
+# 🚀 Projects
+
+### 🔍 [Development Assist — Documentation RAG Application](https://github.com/HamzaAbdulBari/development-assist)
+A Retrieval-Augmented Generation app that answers natural-language questions over developer documentation. Backend built with FastAPI and Pydantic for structured request/response validation, with a modular pipeline for document ingestion, chunking, embedding generation, retrieval, and context-based answer generation. Persistent storage via PostgreSQL with Alembic-managed migrations.
+
+`Python` `FastAPI` `Pydantic` `PostgreSQL` `Alembic` `RAG` `Embeddings`
+
+### 📰 [NewsClassifier — Fake News Detection](https://github.com/HamzaAbdulBari/newsclassifier-fake-news)
+A fake-news classification system built by fine-tuning DeBERTa-v3 on the LIAR dataset. Uses TextAttack to generate adversarial examples and stress-test model robustness, with training and evaluation pipelines built in PyTorch and Hugging Face Transformers.
+
+`Python` `DeBERTa-v3` `PyTorch` `Hugging Face Transformers` `TextAttack`
+
+### 🗂️ [NewsClassifier — News Category Classification](https://github.com/HamzaAbdulBari/newsclassifier-category)
+An NLP pipeline for automatically sorting news articles into predefined categories, covering preprocessing, feature extraction, model training, and evaluation with Scikit-learn.
+
+`Python` `Scikit-learn` `NLP` `Machine Learning`
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
