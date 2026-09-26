@@ -1,159 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
+# 💫 About Me:
+👯 I’m looking to collaborate on<br>AI/ML, NLP, and LLM-based projects<br><br>🤝 I’m looking for help with<br>Machine Learning Engineering, System Design, and building production-ready AI systems<br><br>🌱 I’m currently learning<br>LLM Systems, RAG, Backend Architecture, C++, and Cybersecurity<br><br>💬 Ask me about<br>NLP, Transformers, DeBERTa, RAG, Machine Learning, and FastAPI<br><br>⚡ Fun fact<br>I enjoy turning ML concepts into working systems and breaking them down to understand how they actually work.
 
-<h3 align="center">AI/ML Engineer | NLP | LLM Systems</h3>
 
-<p align="center">
-  Building practical AI systems with Machine Learning, Natural Language Processing, and modern backend technologies.
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HamzaAbdulBari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HamzaAbdulBari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaAbdulBari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-<h3 align="left">🚀 Featured Projects:</h3>
-
-<p align="left">
-
-<b>📚 Development Assist — Documentation RAG Application</b><br/>
-Python · RAG · Embeddings · PostgreSQL · Alembic
-
-<br/><br/>
-
-A Retrieval-Augmented Generation application for answering natural-language questions over developer documentation.
-
-<br/><br/>
-
-• Built a modular pipeline for document ingestion, chunking, embeddings, retrieval, and answer generation.<br/>
-• Designed ingestion, embedding, and retrieval components as independent services.<br/>
-• Implemented persistent storage with PostgreSQL and Alembic-managed migrations.
-
-<br/><br/>
-
-<b>🤖 NewsClassifier — Fake News Detection</b><br/>
-Python · DeBERTa-v3 · PyTorch · Hugging Face Transformers · TextAttack
-
-<br/><br/>
-
-A Transformer-based NLP system for detecting fake news using the LIAR dataset.
-
-<br/><br/>
-
-• Fine-tuned DeBERTa-v3 using PyTorch and Hugging Face Transformers.<br/>
-• Built the training and evaluation pipeline for binary news classification.<br/>
-• Generated adversarial examples with TextAttack to evaluate model robustness.<br/>
-• Measured the impact of adversarial examples on accuracy and F1-score.
-
-<br/><br/>
-
-<b>⚙️ Blog API — Backend Service</b><br/>
-Python · FastAPI · Pydantic · REST API · PostgreSQL
-
-<br/><br/>
-
-A backend service providing RESTful endpoints for managing blog content.
-
-<br/><br/>
-
-• Built CRUD endpoints for creating, reading, updating, and deleting blog posts.<br/>
-• Used FastAPI and Pydantic for request validation and structured responses.<br/>
-• Implemented database-backed persistence for blog content.
-
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=HamzaAbdulBari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">🛠️ Languages:</h3>
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-</p>
-
-<h3 align="left">🧠 AI / Machine Learning:</h3>
-
-<p align="left">
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-
-</p>
-
-<h3 align="left">⚙️ Backend & Databases:</h3>
-
-<p align="left">
-
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-</p>
-
-<h3 align="left">🔧 Tools:</h3>
-
-<p align="left">
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-<h3 align="left">📌 Areas of Interest:</h3>
-
-<p align="left">
-Natural Language Processing · Transformer Models · LLM Applications · RAG · Machine Learning Engineering · Backend Engineering · AI Systems
-</p>
-
----
-
-<h3 align="left">📚 Currently Learning:</h3>
-
-<p align="left">
-Machine Learning Engineering · LLM Systems · Backend Architecture · C++ · Cybersecurity
-</p>
-
----
-
-<h3 align="left">🤝 Connect with me:</h3>
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
