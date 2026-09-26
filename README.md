@@ -22,10 +22,12 @@ A fake-news classification system built by fine-tuning DeBERTa-v3 on the LIAR da
 
 `Python` `DeBERTa-v3` `PyTorch` `Hugging Face Transformers` `TextAttack`
 
-### 🗂️ [NewsClassifier — News Category Classification](https://github.com/HamzaAbdulBari/newsclassifier-category)
-An NLP pipeline for automatically sorting news articles into predefined categories, covering preprocessing, feature extraction, model training, and evaluation with Scikit-learn.
+### 🗂️ [Blog Backend API](YOUR_GITHUB_REPO_URL)
 
-`Python` `Scikit-learn` `NLP` `Machine Learning`
+A RESTful backend API for a blog platform, providing secure user authentication, post creation and management, and structured API endpoints for handling blog content using a relational database.
+
+`Python` `FastAPI` `PostgreSQL` `REST API` `SQLAlchemy`
+
 
 
 ## 🌐 Socials:
